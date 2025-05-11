@@ -1,5 +1,5 @@
 # PCBSch_Example_MCU_SupplyCircuit
-Part of a PCB, supply circuit 24V to 3V3 smps buck converter MAX20076DATCA
+Part of a PCB, supply circuit 24V to 5V smps buck converter MAX20076DATCA
 
 ![Ramazan Muhammet Tulay Task02 Picture B](https://github.com/user-attachments/assets/6d04fe9b-6125-4995-b43d-7aac5710cbf5)
 ![Ramazan Muhammet Tulay Task02 Picture C png](https://github.com/user-attachments/assets/c8d16843-750d-4542-a9ff-6dea4be44473)
